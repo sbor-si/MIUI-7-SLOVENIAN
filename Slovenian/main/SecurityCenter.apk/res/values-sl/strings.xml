@@ -335,8 +335,8 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="force_stop_dlg_text">"Če omejite podatke v ozadju nekatere aplikacije in storitve ne bodo delovale če niste povezani na WiFi omrežje."</string>
      <string name="force_stop_dlg_title">Omeji podatke v ozadju</string>
      <string name="foreground_traffic">Prednja stran %s</string>
-     <string name="forget_password_button_text">&lt;u&gt;Pozabljeno geslo&lt;/u&gt;</string>
-     <string name="forget_pattern">&lt;u&gt;Pozabljen obrazec?&lt;/u&gt;</string>
+     <string name="forget_password_button_text">Pozabljeno geslo?</string>
+     <string name="forget_pattern">Pozabljen obrazec?</string>
      <string name="free_time_traffic">Izklj. maks. omejitev podatkov</string>
      <string name="free_time_traffic_hint">Vnesite Izklj. maks. omejitev podatkov</string>
      <string name="free_time_traffic_settings">Izklj. maks. omejitev podatkov</string>
